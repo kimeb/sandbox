@@ -11,7 +11,8 @@ body {
 
 a {
   color: #1e65b8;
-  text-decoration: none; }
+  text-decoration: none;
+  text-align: right}
   a:hover {
     text-decoration: underline; }
 
@@ -90,7 +91,7 @@ a {
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
-  opacity: 0.7; }
+  opacity: 0.3; }
 
 @media screen and (min-width: 64em) {
   .project-tagline {
